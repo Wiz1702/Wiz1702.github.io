@@ -23,6 +23,7 @@ author: Wisdom Akanwe
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Class Page: "https://moodle.kenyon.edu/course/view.php?id=21496"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://visual-career-story.vercel.app/"
 
