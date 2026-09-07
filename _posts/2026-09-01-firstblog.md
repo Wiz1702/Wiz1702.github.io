@@ -4,7 +4,7 @@ title: MY FIRST BLOG POST
 subtitle: Welcome to my E-textiles Abode
 gh-repo: Wiz1702/Wiz1702.github.io
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Me,Self]
 comments: true
 mathjax: true
 author: Wisdom Akanwe
