@@ -31,8 +31,7 @@ Soccer is one of the things I enjoy most. Supporting your favorite club can teac
 ![Here is a picture of my favourite club](https://t3.ftcdn.net/jpg/02/95/77/60/360_F_295776062_8tUiN8BVCp7qeS5qoH2nRFGXhC3acusa.jpg)
 
 ## One Boring Fact About Me
-
-One boring fact about is that I drink water every day. Very exciting, I know.
+I eat everyday, and I drink water 1 hour after. 
 
 ## Why this blog
 This is where I will be posting updates on projects on this course. Hopefully I get to build some cool stuff.
