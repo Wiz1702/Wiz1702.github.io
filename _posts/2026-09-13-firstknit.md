@@ -21,10 +21,11 @@ Our first assignment was to sew some designs onto some piece of clothing. Safe t
 I honestly do not have any tips, but I would say, just start something..It will surprise you how just starting a knit can take you far.
 
 
-Now, to see the results of my handiwork. Don't judge..( I am still learning) :)
-![The front of the cloth](assets/img/Frontend.jpeg)
+Now, to see the results of my handiwork. Don't judge—I am still learning! :)
 
-![The back of the cloth](assets/img/Back.jpeg)
+![The front of the cloth]({{ '/assets/img/Frontend.jpeg' | relative_url }})
+
+![The back of the cloth]({{ '/assets/img/Back.jpeg' | relative_url }})
 
 This is just the beginning. It only gets better from here. Believe that!!
 
