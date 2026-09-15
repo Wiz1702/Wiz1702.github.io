@@ -23,9 +23,9 @@ I honestly do not have any tips, but I would say, just start something..It will 
 
 Now, to see the results of my handiwork. Don't judge—I am still learning! :)
 
-![The front of the cloth]({{'/assets/img/Frontend.jpeg'|relative_url}})
+![The front of the cloth](/assets/img/Frontend.jpeg)
 
-![The back of the cloth]({{'/assets/img/Back.jpeg'|relative_url}})
+![The back of the cloth](/assets/img/Back.jpeg)
 
 This is just the beginning. It only gets better from here. Believe that!!
 
