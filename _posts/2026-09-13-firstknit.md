@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MY FIRST KNIT
-subtitle: Embroidery is fun-is??
+subtitle: Embroidery is fun-ish??
 gh-repo: Wiz1702/Wiz1702.github.io
 gh-badge: [star, fork, follow]
 tags: [Me,Self]
