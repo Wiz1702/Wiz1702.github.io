@@ -30,7 +30,7 @@ Now, to see the results of my handiwork. :)
 ![The front of my completed light-up wristband](/assets/img/band_front.jpeg)
 
 ## The Front with light
-![The front of my completed light-up wristband lighted-up](/assets/img/)
+![The front of my completed light-up wristband lighted-up](/assets/img/Collage.png)
 
 ## The Back
 
