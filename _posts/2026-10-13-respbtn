@@ -1,0 +1,29 @@
+---
+layout: post
+title: Responsive Buttons
+subtitle: Mastering the while loop
+gh-repo: Wiz1702/Wiz1702.github.io
+gh-badge: [star, fork, follow]
+tags: [Me,Self]
+comments: true
+mathjax: true
+author: Wisdom Akanwe
+---
+
+{: .box-success}
+Back with my Arduino LEDs! This time, I programmed them to turn on when a button is pressed and turn off when released. Each new press turns on a different random LED.
+
+**Code it**
+
+For this assignment, I used while loops, random(), and state variables. The while loops helped me keep the LED on while the button was pressed and avoid selecting the same LED twice in a row.
+
+I also used previousPin to remember the last LED that was turned on.
+
+##Tips
+
+Pay attention in class. Most of what you need is already covered.
+
+Be careful with while loops. Make sure your loop can eventually stop.
+
+Test as you go. It makes finding and fixing mistakes much easier.
+
