@@ -9,7 +9,7 @@ comments: true
 mathjax: true
 author: Wisdom Akanwe
 ---
-: .box-success}
+{: .box-success}
 Three fireflies, three different patterns, and one Arduino program. We finally brought everything together!
 
 Code it
