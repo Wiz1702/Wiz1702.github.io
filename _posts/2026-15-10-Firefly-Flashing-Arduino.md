@@ -25,7 +25,7 @@ And then, just pay attention in class, it truly works out
 
 The Final Result
 
-![LEDS](/assets/img/Frontend.jpeg)
+![LEDS](/assets/img/LED_Fireflies.jpeg)
 
 And just like that, we have three fireflies lighting up together! Pretty cool to see everything we've learned finally come together.
 
