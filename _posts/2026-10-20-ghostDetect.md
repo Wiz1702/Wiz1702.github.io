@@ -12,7 +12,7 @@ author: Wisdom Akanwe
 {: .box-success}
 Ghosts only come out when it's dark and cold... or so they say!!
 
-##Detect it!##
+#Detect it!#
 
 For this assignment, I used light and temperature sensors to create a ghost detector with my LilyPad Arduino. The goal was to turn on all the red LEDs whenever it was both dark and cold enough for ghosts to be nearby.
 
@@ -20,11 +20,11 @@ I also worked on the extra credit, where my program collects sensor readings for
 
 Once both conditions are met, the red LEDs light up. Otherwise, they stay off!
 
-##Tips##
+#Tips#
 
 My advice to my past self would be to test the sensors individually before combining them. Using the Serial Monitor to check the sensor readings makes it much easier to understand what is happening and troubleshoot the program.
 
-##The Result##
+#The Result#
 ![LED](/assets/img/GhostDetect.jpeg)
 
 Looks like we have a ghost in my room... aarghhhh!!!
