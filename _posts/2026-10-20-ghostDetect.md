@@ -25,7 +25,7 @@ Once both conditions are met, the red LEDs light up. Otherwise, they stay off!
 My advice to my past self would be to test the sensors individually before combining them. Using the Serial Monitor to check the sensor readings makes it much easier to understand what is happening and troubleshoot the program.
 
 ##The Result##
-![LEDS](/assets/img/ghostDetect.jpeg)
+![LED](/assets/img/GhostDetect.jpeg)
 
 Looks like we have a ghost in my room... aarghhhh!!!
 
