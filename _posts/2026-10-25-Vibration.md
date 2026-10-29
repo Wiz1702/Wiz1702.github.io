@@ -25,6 +25,6 @@ My advice to my past self would be to test the dots and dashes separately before
 
 My Arduino Setup
 
-
+![LED](/assets/img/GhostDetect.jpeg)
 
 Here is my Arduino kit sending messages through vibrations! WOW!!!
