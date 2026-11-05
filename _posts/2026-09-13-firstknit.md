@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MY FIRST KNIT
-subtitle: Embroidery is fun-ish??
+title: PROJECT COLLECTION
+subtitle: Final Project taking Shape
 gh-repo: Wiz1702/Wiz1702.github.io
 gh-badge: [star, fork, follow]
 tags: [Me,Self]
@@ -10,22 +10,31 @@ mathjax: true
 author: Wisdom Akanwe
 ---
 
-{: .box-success}
-Made my first embroidery in more than 10 years.. Can say I need more practice.
+# A Heart You Can Feel
 
-**Knit it**
+### A heart that glows, beats and sings
 
-Our first assignment was to sew some designs onto some piece of clothing. Safe to say, it was a handful(literally). Art is messy, and with practice, I hope to sharpen my sewing skills.
+For my final project, I want to make three soft fabric hearts that respond through light, vibration, and sound. I like the idea of taking a familiar shape and giving each version a different way to interact with someone.
 
-## Tips
-I honestly do not have any tips, but I would say, just start something..It will surprise you how just starting a knit can take you far.
+**Glowing Heart**
+
+The first heart will have LEDs that respond to a light sensor. When the surroundings get darker, the heart will light up. I plan to place the LEDs around the heart and use embroidery to decorate its surface.
+
+**Beating Heart**
+
+The second heart will use a Vibe Board to produce a “lub-dub” vibration resembling a heartbeat. A homemade switch inside the heart will activate the vibration when squeezed, making the heartbeat something you can feel.
+
+**Singing Heart**
+
+The third heart will use a buzzer to play a tune when its switch is turned on. This adds sound to the collection and gives the heart another way to express itself.
+
+I will use felt, stuffing, decorative thread, and conductive thread to build the hearts and sew their electronic connections. My goal is to bring together what I have learned about sewing, sensors, and Arduino programming to create a heart that glows, beats and sings.
+
+*The proposal concept image was created with assistance from OpenAI’s ChatGPT image-generation tool.*
+
+![Concept Image](/assets/img/3hearts.png)
+
+![Connections](/assets/img/connections.png)
 
 
-Now, to see the results of my handiwork. Don't judge—I am still learning! :)
-
-![The front of the cloth](/assets/img/Frontend.jpeg)
-
-![The back of the cloth](/assets/img/Back.jpeg)
-
-This is just the beginning. It only gets better from here. Believe that!!
 
