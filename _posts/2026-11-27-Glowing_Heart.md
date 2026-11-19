@@ -33,14 +33,14 @@ I wanted to make a soft heart that responds to its environment.
 
 My revised prototype shows the four LEDs arranged in two pairs. One pair connects to pin 6, and the other connects to pin 7. All four negative tabs connect to the LilyPad’s ground. The light sensor connects to positive power, ground, and A2 through its signal tab.
 
-![Revised Glowing Heart paper prototype showing the LED pairs, light sensor, and LilyPad connections](/assets/img/glowing-heart.png)
+![Revised Glowing Heart paper prototype showing the LED pairs, light sensor, and LilyPad connections](/assets/img/glowing_heart.png)
 
 ## Alligator Prototype
 
 I used alligator clips to test the connections before sewing the circuit onto the felt. This setup lets me check the sensor readings and LED behavior while the connections are easy to adjust.
 
-![Glowing Heart circuit operating with alligator clips before sewing](/assets/img/alligator_clips.png)
-![Glowing Heart circuit operating with alligator clips before sewing-dark room](/assets/img/alligator_clips_light.png)
+![Glowing Heart circuit operating with alligator clips before sewing](/assets/img/alligator_clips.jpeg)
+![Glowing Heart circuit operating with alligator clips before sewing-dark room](/assets/img/alligator_clips_light.jpeg)
 
 ## Working Piece
 
@@ -50,13 +50,13 @@ These photos show how the heart responds to two different lighting conditions.
 
 The LEDs glow brightly.
 
-![Completed Glowing Heart with bright LEDs in darker surroundings](/assets/img/glowing_heart_on.png)
+![Completed Glowing Heart with bright LEDs in darker surroundings](/assets/img/glowing_heart_on.jpeg)
 
 **In brighter surroundings**
 
 The LEDs are off as more light reaches the sensor.
 
-![Completed Glowing Heart with dim LEDs in brighter surroundings](/assets/img/glowing_heart_off.png)
+![Completed Glowing Heart with dim LEDs in brighter surroundings](/assets/img/glowing_heart_off.jpeg)
 
 ## Two Tips to My Past Self
 
